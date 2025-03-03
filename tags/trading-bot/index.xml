@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trading Bot on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/trading-bot/</link><description>Recent content in Trading Bot on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 14:56:34 -0500</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/trading-bot/index.xml" rel="self" type="application/rss+xml"/><item><title>Merging Architectures into a Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</link><pubDate>Mon, 03 Mar 2025 12:15:30 -0500</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</guid><description>&lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I thought I&amp;rsquo;d be able to keep up with a weekly release schedule, but then the following happened:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Trading Bot on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/trading-bot/</link><description>Recent content in Trading Bot on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Mar 2025 18:12:54 -0500</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/trading-bot/index.xml" rel="self" type="application/rss+xml"/><item><title>Merging Architectures into a Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</link><pubDate>Mon, 03 Mar 2025 12:15:30 -0500</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</guid><description>&lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:&lt;/p>
 &lt;ul>
-&lt;li>Foreign economic policies kept getting announced and flip-flopped causing the algo to go haywaire for a bit&lt;/li>
-&lt;li>Prices recently went parabolic in the crypto market, though not in a great way&lt;/li>
-&lt;li>I started migrating my entire local setup to AWS, which is a whole ordeal in itself&lt;/li>
-&lt;li>I had to go window shopping for datasets
+&lt;li>Announcements of foreign economic policies, which frequently changed direction, sent the algorithm into a temporary state of disarray&lt;/li>
+&lt;li>Prices recently went parabolic in the crypto market, not necessarily to favorable effect&lt;/li>
+&lt;li>I embarked on migrating my entire local setup to AWS, which is a whole ordeal in itself&lt;/li>
+&lt;li>I went window shopping for datasets
 &lt;ul>
 &lt;li>I couldn&amp;rsquo;t find any datasets I liked with the right frequency and features, so I had to make my own
 &lt;ul>
@@ -13,4 +13,5 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>Thanks to a co-worker of mine, I also came to the conclusion that raw posts on LinkedIn would limit the amount of information I could share. That led to the creation of this blog site and infrastructure to support it (major shout-out to &lt;a href="https://gohugo.io/">Hugo&lt;/a> for making this whole process a breeze).&lt;/p></description></item></channel></rss>
+&lt;p>Thanks to a co-worker of mine, I also came to the conclusion that raw posts on LinkedIn would limit the amount of information I could share. That led to the creation of this blog site and infrastructure to support it (major shout-out to &lt;a href="https://gohugo.io/" target="_blank" >Hugo&lt;/a>
+ for making this whole process a breeze). Thanks, Mike!&lt;/p></description></item></channel></rss>
