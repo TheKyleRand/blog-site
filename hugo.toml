@@ -7,6 +7,14 @@ theme = 'm10c'
     author = 'Kyle Rand'
     description = 'A blog about technology and programming'
     favicon = '/blog-site/favicon.ico'
+    avatar = '/blog-site/ai_avatar.jpeg'
+
+    [params.style]
+        darkestColor = "#14242c"
+        darkColor = "#1d2c37"
+        lightColor = "#f5e3e0"
+        lightestColor = "#f5f5f5"
+        primaryColor = "#57cc8a"
     
     [[params.social]]
         icon = "linkedin"
