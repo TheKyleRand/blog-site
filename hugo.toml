@@ -6,9 +6,21 @@ theme = 'm10c'
 [params]
     author = 'Kyle Rand'
     description = 'A blog about technology and programming'
+    favicon = '/favicon.ico'
     
     [[params.social]]
         icon = "linkedin"
         name = "LinkedIn"
         url = "https://linkedin.com/in/kylerand"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+
+
+[module]
+    [[module.mounts]]
+        source = 'static'
+        target = 'static'
