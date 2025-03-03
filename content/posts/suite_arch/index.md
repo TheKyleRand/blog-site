@@ -1,6 +1,6 @@
 +++
 date = '2025-03-03T12:15:30-05:00'
-draft = true
+draft = false
 title = 'Merging Architectures into a Suite'
 tags = ['AWS', 'Crypto', 'AI', 'Technical Analysis', 'Trading Bot', 'Crypto Compass', 'Crypto Newspaper']
 +++
