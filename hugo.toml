@@ -6,7 +6,7 @@ theme = 'm10c'
 [params]
     author = 'Kyle Rand'
     description = 'A blog about technology and programming'
-    favicon = '/favicon.ico'
+    favicon = '/blog-site/favicon.ico'
     
     [[params.social]]
         icon = "linkedin"
