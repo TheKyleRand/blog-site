@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://TheKyleRand.github.io/blog-site/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Kyle's Tech Blog'
+theme = 'm10c'
+
+[params]
+    author = 'Kyle Rand'
+    description = 'A blog about technology and programming'
+    
+    [[params.social]]
+    icon = "linkedin"
+    name = "LinkedIn"
+    url = "https://linkedin.com/in/kylerand"
+
