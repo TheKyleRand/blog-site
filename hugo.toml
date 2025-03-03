@@ -1,6 +1,6 @@
 baseURL = 'https://TheKyleRand.github.io/blog-site/'
 languageCode = 'en-us'
-title = 'Kyle's Tech Blog'
+title = "Kyle's Tech Blog"
 theme = 'm10c'
 
 [params]
@@ -8,7 +8,7 @@ theme = 'm10c'
     description = 'A blog about technology and programming'
     
     [[params.social]]
-    icon = "linkedin"
-    name = "LinkedIn"
-    url = "https://linkedin.com/in/kylerand"
+        icon = "linkedin"
+        name = "LinkedIn"
+        url = "https://linkedin.com/in/kylerand"
 
