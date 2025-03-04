@@ -1,7 +1,7 @@
 baseURL = 'https://TheKyleRand.github.io/blog-site/'
 languageCode = 'en-us'
 title = "Kyle's Tech Blog"
-theme = 'm10c'
+theme = 'hugo-news'
 
 [params]
     author = 'Kyle Rand'
@@ -32,3 +32,6 @@ theme = 'm10c'
     [[module.mounts]]
         source = 'static'
         target = 'static'
+
+[outputs]
+    home = ["HTML", "RSS"]
