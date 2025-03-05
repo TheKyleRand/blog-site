@@ -2,6 +2,7 @@ baseURL = 'https://TheKyleRand.github.io/blog-site/'
 languageCode = 'en-us'
 title = "Kyle's Tech Blog"
 theme = 'm10c'
+googleAnalytics = 'G-RH0B56H3FF'
 
 [params]
     author = 'Kyle Rand'
