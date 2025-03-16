@@ -5,6 +5,8 @@ title = 'Merging Architectures into a Suite'
 tags = ['AWS', 'Crypto', 'AI', 'Technical Analysis', 'Trading Bot', 'Crypto Compass', 'Crypto Newspaper']
 +++
 
+{{< audio src="audio/merging_architectures.mp3" >}}
+
 It's been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:
 - Announcements of foreign economic policies, which frequently changed direction, sent the algorithm into a temporary state of disarray
 - Prices recently went parabolic in the crypto market, not necessarily to favorable effect

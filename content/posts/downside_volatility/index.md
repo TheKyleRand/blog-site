@@ -5,6 +5,7 @@ title = 'Downside Volatility'
 tags = ['AWS', 'Crypto', 'AI', 'Technical Analysis', 'Trading Bot']
 +++
 
+{{< audio src="audio/downside_volatility.mp3" >}}
 ![Downside Volatility](/images/downside_volatility.png)
 
 This week marked a significant push forward in my suite of digital projects, with substantial work focusing more on the trading components of the project. I began to notice a lot of statistical outliers in recent data I'd been producing compared to testing results from last year. The latest problems started with a sharp uptick in unpredictable market events outside of normal behavior. This led me to realize my algorithm, while performing well on technical analysis signals, was not performing well when the market was being driven by external events. Part of this is due to the fact that I have not yet weighed in real world events into the algorithm. At the moment, those two data streams are still separate, but I plan on adding this in the coming weeks after I've fully built out the AI model and endpoint deployment process. To begin this week's journey, I dug into this problem by first trying to understand the current landscape of algorithm trading and seeing if others were experiencing similar observations in their trading data.
