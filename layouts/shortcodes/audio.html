@@ -1,4 +1,18 @@
-<audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
-    <source src="{{ .Get "src" | absURL }}" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
+<div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+    <span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a voice reading this: (AI-generated)</span>
+    <audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
+        <source src="{{ .Get "src" | absURL }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>
+
+<style>
+    @media (max-width: 600px) {
+        div {
+            display: block;
+        }
+        div#audio-container {
+            padding-top: 10px;
+        }
+    }
+</style>
