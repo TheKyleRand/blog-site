@@ -1,20 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crypto Newspaper on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/crypto-newspaper/</link><description>Recent content in Crypto Newspaper on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 16 Mar 2025 12:43:56 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/crypto-newspaper/index.xml" rel="self" type="application/rss+xml"/><item><title>The Most Valuable Code in My Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</link><pubDate>Sun, 16 Mar 2025 10:54:35 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</guid><description>&lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crypto Newspaper on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/crypto-newspaper/</link><description>Recent content in Crypto Newspaper on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 16 Mar 2025 12:43:56 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/crypto-newspaper/index.xml" rel="self" type="application/rss+xml"/><item><title>The Most Valuable Code in My Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</link><pubDate>Sun, 16 Mar 2025 10:54:35 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a voice reading this: (AI-generated)&lt;/span>
+ &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/most_valuable_code_mad_sci.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
-&lt;/audio>
+ &lt;/audio>
+&lt;/div>
+
+&lt;style>
+ @media (max-width: 600px) {
+ div {
+ display: block;
+ }
+ div#audio-container {
+ padding-top: 10px;
+ }
+ }
+&lt;/style>
 
 &lt;p>&lt;img src="https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/images/featured_image.png" alt="Featured Image">&lt;/p>
-&lt;p>Today, I want to show you the most valuable and expensive code I have in my current suite of crypto projects. I warn you, this is incredibly powerful and dangerous. It controls the entirety of my suite and dictates what the suite is actually capable of. Are you ready?&lt;/p>
-&lt;p>Here it is:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-hcl" data-lang="hcl">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">variable&lt;/span> &lt;span style="color:#e6db74">&amp;#34;cryptos&amp;#34;&lt;/span> {
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> description &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;List of cryptocurrencies to support&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> type &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">list&lt;/span>(&lt;span style="color:#66d9ef">string&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> default &lt;span style="color:#f92672">=&lt;/span> [&lt;span style="color:#e6db74">&amp;#34;bitcoin&amp;#34;, &amp;#34;ethereum&amp;#34;&lt;/span>]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>If you recognize that, you&amp;rsquo;ll notice it&amp;rsquo;s a snippet of Terraform code. It&amp;rsquo;s the variable that dictates what cryptocurrencies are supported by the suite. Want to add another crypto? Just add it to the list. Want to remove one? Just remove it from the list. It really is that simple.&lt;/p></description></item><item><title>Merging Architectures into a Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</link><pubDate>Mon, 03 Mar 2025 12:15:30 -0500</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</guid><description>&lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
+&lt;p>Today, I want to show you the most valuable and expensive code I have in my current suite of crypto projects. I warn you, this is incredibly powerful and dangerous. It controls the entirety of my suite and dictates what the suite is actually capable of. Are you ready?&lt;/p></description></item><item><title>Merging Architectures into a Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</link><pubDate>Mon, 03 Mar 2025 12:15:30 -0500</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a voice reading this: (AI-generated)&lt;/span>
+ &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/merging_architectures.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
-&lt;/audio>
+ &lt;/audio>
+&lt;/div>
+
+&lt;style>
+ @media (max-width: 600px) {
+ div {
+ display: block;
+ }
+ div#audio-container {
+ padding-top: 10px;
+ }
+ }
+&lt;/style>
 
 &lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:&lt;/p>
 &lt;ul>
