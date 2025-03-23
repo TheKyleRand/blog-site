@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Best Practices on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/best-practices/</link><description>Recent content in Best Practices on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Mar 2025 17:00:49 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/best-practices/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding with Extra Steps</title><link>https://TheKyleRand.github.io/blog-site/posts/vibe_coding/</link><pubDate>Sun, 23 Mar 2025 16:05:07 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/vibe_coding/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+ &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
+ &lt;source src="https://TheKyleRand.github.io/blog-site/audio/vibe_coding.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ &lt;/audio>
+&lt;/div>
+
+&lt;style>
+ @media (max-width: 600px) {
+ div {
+ display: block;
+ }
+ div#audio-container {
+ padding-top: 10px;
+ }
+ }
+&lt;/style>
+
+&lt;p>There’s been a screenshot circulating around LinkedIn recently that sparked a lot of debate. It&amp;rsquo;s from someone claiming they built an entire SaaS with Cursor—zero handwritten code—and then days later, had to go radio silent because of the chaos that followed. People maxing out API keys, bypassing subscriptions, trashing their database. It didn’t end well.&lt;/p></description></item></channel></rss>
