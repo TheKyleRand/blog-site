@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Crypto Newspaper on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/crypto-newspaper/</link><description>Recent content in Crypto Newspaper on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 16 Mar 2025 12:43:56 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/crypto-newspaper/index.xml" rel="self" type="application/rss+xml"/><item><title>The Most Valuable Code in My Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</link><pubDate>Sun, 16 Mar 2025 10:54:35 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
- &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
  &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/most_valuable_code_mad_sci.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
@@ -19,7 +19,7 @@
 
 &lt;p>&lt;img src="https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/images/featured_image.png" alt="Featured Image">&lt;/p>
 &lt;p>Today, I want to show you the most valuable and expensive code I have in my current suite of crypto projects. I warn you, this is incredibly powerful and dangerous. It controls the entirety of my suite and dictates what the suite is actually capable of. Are you ready?&lt;/p></description></item><item><title>Merging Architectures into a Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</link><pubDate>Mon, 03 Mar 2025 12:15:30 -0500</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
- &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
  &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/merging_architectures.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
@@ -37,4 +37,20 @@
  }
 &lt;/style>
 
-&lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:&lt;/p></description></item></channel></rss>
+&lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:&lt;/p>
+&lt;ul>
+&lt;li>Announcements of foreign economic policies, which frequently changed direction, sent the algorithm into a temporary state of disarray&lt;/li>
+&lt;li>Prices recently went parabolic in the crypto market, not necessarily to favorable effect&lt;/li>
+&lt;li>I embarked on migrating my entire local setup to AWS, which is a whole ordeal in itself&lt;/li>
+&lt;li>I went window shopping for datasets
+&lt;ul>
+&lt;li>I couldn&amp;rsquo;t find any datasets I liked with the right frequency and features, so I had to make my own
+&lt;ul>
+&lt;li>I had to create my own data pipelines to ensure consistency and reliability of the data getting ingested&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Thanks to a co-worker of mine, I also came to the conclusion that raw posts on LinkedIn would limit the amount of information I could share. That led to the creation of this blog site and infrastructure to support it (major shout-out to &lt;a href="https://gohugo.io/" target="_blank" >Hugo&lt;/a>
+ for making this whole process a breeze). Thanks, Mike!&lt;/p></description></item></channel></rss>

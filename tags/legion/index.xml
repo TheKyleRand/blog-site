@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Legion on Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/tags/legion/</link><description>Recent content in Legion on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 11 May 2025 14:23:19 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/tags/legion/index.xml" rel="self" type="application/rss+xml"/><item><title>Building Legion: Conversation as Computation</title><link>https://TheKyleRand.github.io/blog-site/posts/legion-intro/</link><pubDate>Sun, 11 May 2025 12:50:42 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/legion-intro/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
+ &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
+ &lt;source src="https://TheKyleRand.github.io/blog-site/audio/legion_intro.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ &lt;/audio>
+&lt;/div>
+
+&lt;style>
+ @media (max-width: 600px) {
+ div {
+ display: block;
+ }
+ div#audio-container {
+ padding-top: 10px;
+ }
+ }
+&lt;/style>
+
+&lt;p>&lt;img src="https://TheKyleRand.github.io/blog-site/posts/legion-intro/images/featured_image.png" alt="Featured Image">
+I ran into a little bit of a problem with my crypto platform. Actually, scratch that—it was a lot of problems. Like, hit-every-red-flag-in-the-diagnostics kind of problems. So I started untangling it all. And then I realized, the problem wasn&amp;rsquo;t in one place. It was everywhere.&lt;/p></description></item></channel></rss>

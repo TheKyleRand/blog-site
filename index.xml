@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/</link><description>Recent content on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 23 Mar 2025 17:00:49 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/index.xml" rel="self" type="application/rss+xml"/><item><title>Vibe Coding with Extra Steps</title><link>https://TheKyleRand.github.io/blog-site/posts/vibe_coding/</link><pubDate>Sun, 23 Mar 2025 16:05:07 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/vibe_coding/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
- &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Kyle's Tech Blog</title><link>https://TheKyleRand.github.io/blog-site/</link><description>Recent content on Kyle's Tech Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 11 May 2025 14:23:19 -0400</lastBuildDate><atom:link href="https://TheKyleRand.github.io/blog-site/index.xml" rel="self" type="application/rss+xml"/><item><title>Building Legion: Conversation as Computation</title><link>https://TheKyleRand.github.io/blog-site/posts/legion-intro/</link><pubDate>Sun, 11 May 2025 12:50:42 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/legion-intro/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
+ &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
+ &lt;source src="https://TheKyleRand.github.io/blog-site/audio/legion_intro.mp3" type="audio/mpeg">
+ Your browser does not support the audio element.
+ &lt;/audio>
+&lt;/div>
+
+&lt;style>
+ @media (max-width: 600px) {
+ div {
+ display: block;
+ }
+ div#audio-container {
+ padding-top: 10px;
+ }
+ }
+&lt;/style>
+
+&lt;p>&lt;img src="https://TheKyleRand.github.io/blog-site/posts/legion-intro/images/featured_image.png" alt="Featured Image">
+I ran into a little bit of a problem with my crypto platform. Actually, scratch that—it was a lot of problems. Like, hit-every-red-flag-in-the-diagnostics kind of problems. So I started untangling it all. And then I realized, the problem wasn&amp;rsquo;t in one place. It was everywhere.&lt;/p></description></item><item><title>Vibe Coding with Extra Steps</title><link>https://TheKyleRand.github.io/blog-site/posts/vibe_coding/</link><pubDate>Sun, 23 Mar 2025 16:05:07 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/vibe_coding/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
  &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/vibe_coding.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
@@ -18,7 +38,7 @@
 &lt;/style>
 
 &lt;p>There’s been a screenshot circulating around LinkedIn recently that sparked a lot of debate. It&amp;rsquo;s from someone claiming they built an entire SaaS with Cursor—zero handwritten code—and then days later, had to go radio silent because of the chaos that followed. People maxing out API keys, bypassing subscriptions, trashing their database. It didn’t end well.&lt;/p></description></item><item><title>The Most Valuable Code in My Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</link><pubDate>Sun, 16 Mar 2025 10:54:35 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
- &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
  &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/most_valuable_code_mad_sci.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
@@ -38,7 +58,7 @@
 
 &lt;p>&lt;img src="https://TheKyleRand.github.io/blog-site/posts/most_valuable_code/images/featured_image.png" alt="Featured Image">&lt;/p>
 &lt;p>Today, I want to show you the most valuable and expensive code I have in my current suite of crypto projects. I warn you, this is incredibly powerful and dangerous. It controls the entirety of my suite and dictates what the suite is actually capable of. Are you ready?&lt;/p></description></item><item><title>Downside Volatility</title><link>https://TheKyleRand.github.io/blog-site/posts/downside_volatility/</link><pubDate>Sun, 09 Mar 2025 16:51:25 -0400</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/downside_volatility/</guid><description>&lt;p>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
- &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
  &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/downside_volatility.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
@@ -58,7 +78,7 @@
 
 &lt;img src="https://TheKyleRand.github.io/blog-site/posts/downside_volatility/images/downside_volatility.png" alt="Downside Volatility">&lt;/p>
 &lt;p>This week marked a significant push forward in my suite of digital projects, with substantial work focusing more on the trading components of the project. I began to notice a lot of statistical outliers in recent data I&amp;rsquo;d been producing compared to testing results from last year. The latest problems started with a sharp uptick in unpredictable market events outside of normal behavior. This led me to realize my algorithm, while performing well on technical analysis signals, was not performing well when the market was being driven by external events. Part of this is due to the fact that I have not yet weighed in real world events into the algorithm. At the moment, those two data streams are still separate, but I plan on adding this in the coming weeks after I&amp;rsquo;ve fully built out the AI model and endpoint deployment process. To begin this week&amp;rsquo;s journey, I dug into this problem by first trying to understand the current landscape of algorithm trading and seeing if others were experiencing similar observations in their trading data.&lt;/p></description></item><item><title>Merging Architectures into a Suite</title><link>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</link><pubDate>Mon, 03 Mar 2025 12:15:30 -0500</pubDate><guid>https://TheKyleRand.github.io/blog-site/posts/suite_arch/</guid><description>&lt;div id="audio-container" style="display: flex; align-items: center; flex-wrap: wrap;">
- &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to a crazy AI-generated voice reading this:&lt;/span>
+ &lt;span style="margin-right: 10px; flex: 0 0 auto; white-space: nowrap;">Listen to an AI-generated voice reading this:&lt;/span>
  &lt;audio controls preload="none" style="width:100%; max-width:600px; margin: 10px 0;">
  &lt;source src="https://TheKyleRand.github.io/blog-site/audio/merging_architectures.mp3" type="audio/mpeg">
  Your browser does not support the audio element.
@@ -76,4 +96,20 @@
  }
 &lt;/style>
 
-&lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:&lt;/p></description></item></channel></rss>
+&lt;p>It&amp;rsquo;s been a while since I posted on LinkedIn. I originally hoped to maintain a weekly release schedule, but then the following happened:&lt;/p>
+&lt;ul>
+&lt;li>Announcements of foreign economic policies, which frequently changed direction, sent the algorithm into a temporary state of disarray&lt;/li>
+&lt;li>Prices recently went parabolic in the crypto market, not necessarily to favorable effect&lt;/li>
+&lt;li>I embarked on migrating my entire local setup to AWS, which is a whole ordeal in itself&lt;/li>
+&lt;li>I went window shopping for datasets
+&lt;ul>
+&lt;li>I couldn&amp;rsquo;t find any datasets I liked with the right frequency and features, so I had to make my own
+&lt;ul>
+&lt;li>I had to create my own data pipelines to ensure consistency and reliability of the data getting ingested&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>Thanks to a co-worker of mine, I also came to the conclusion that raw posts on LinkedIn would limit the amount of information I could share. That led to the creation of this blog site and infrastructure to support it (major shout-out to &lt;a href="https://gohugo.io/" target="_blank" >Hugo&lt;/a>
+ for making this whole process a breeze). Thanks, Mike!&lt;/p></description></item></channel></rss>
